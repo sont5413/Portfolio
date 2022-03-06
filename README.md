@@ -6,7 +6,7 @@ I built 3 models to predict the winner of a UFC fight based on age, height, and 
 * Random Forest 
 * Linear Regression
 * Gradient Boosting
-### The Random Forest Classifier model had the least mean absolute error and differed from the observed winner about 40% of the time.  In other words, it predicted the correct winner about 60% of the time - At least it's better than guessing!
+#### The Random Forest Classifier model had the least mean absolute error and differed from the observed winner about 40% of the time.  In other words, it predicted the correct winner about 60% of the time - At least it's better than guessing!
 
 ## [Project 2: Analyzed Factors Influencing Body and Antler Size Relationships in White-tailed Deer: Project Overview](https://github.com/sont5413/Deer-scaling-relationships)
 * Analyzed the degree to which maternal attributes (i.e., litter type and mother's age) and dietary energy influence body:antler size scaling relationships in white-tailed deer.
