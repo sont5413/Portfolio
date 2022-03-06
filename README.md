@@ -1,6 +1,14 @@
 # Willis Sontheimer Portfolio
 
-# [Project 1: Analyzed Factors Influencing Body and Antler Size Relationships in White-tailed Deer: Project Overview](https://github.com/sont5413/Deer-scaling-relationships)
+
+# [Project 1: Predicting the Winner of a UFC Fight](https://github.com/sont5413/UFC-Fight-Data)
+I built 3 models to predict the winner of a UFC fight based on age, height, and so on of the "red" fighter and the "blue fighter.
+* Random Forest 
+* Linear Regression
+* Gradient Boosting
+The Random Forest Classifier model had the least mean absolute error and differed from the observed winner about 40% of the time.  In other words, it predicted the correct winner about 60% of the time!  Just a bit better than guessing!
+
+## [Project 2: Analyzed Factors Influencing Body and Antler Size Relationships in White-tailed Deer: Project Overview](https://github.com/sont5413/Deer-scaling-relationships)
 * Analyzed the degree to which maternal attributes (i.e., litter type and mother's age) and dietary energy influence body:antler size scaling relationships in white-tailed deer.
 * Analyzed these relationships at two levels: 1) through the entire lifespan of individuals, and 2) at 5 different age groups (i.e., 1.5, 2.5, 3.5, 4.5, and 5.5).
 * antler size and body size were log transformed in the .csv
@@ -15,7 +23,7 @@
 
 
 
-# [Project 2: Analyzed covid case rates for the month of January 2021 across 5 states that showed the highest increase in covid19 cases](https://github.com/sont5413/CovidCasesJAN21)
+# [Project 3: Analyzed covid case rates for the month of January 2021 across 5 states that showed the highest increase in covid19 cases](https://github.com/sont5413/CovidCasesJAN21)
 * I analyzed an intercepts and slopes linear mixed effect model with State as the random factor.
 * I also analyzed the 95% confidence interval of the fixed effect slope to conclude if rates vary among states. 
 * My results show that the rate of exponential growth does not vary across the states. 
