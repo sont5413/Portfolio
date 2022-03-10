@@ -23,7 +23,7 @@ I built 3 models to predict the winner of a UFC fight based on age, height, and 
 
 
 
-## [Project 3: Analyzed covid case rates for the month of January 2021 across 5 states that showed the highest increase in covid19 cases](https://github.com/sont5413/CovidCasesJAN21)
+## [Project 3: Analyzed COVID-19 case rates for the month of January 2021 across 5 states that showed the highest increase in new cases](https://github.com/sont5413/CovidCasesJAN21)
 * I analyzed an intercepts and slopes linear mixed effect model with State as the random factor.
 * I also analyzed the 95% confidence interval of the fixed effect slope to conclude if rates vary among states. 
 * My results show that the rate of exponential growth does not vary across the states. 
