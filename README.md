@@ -7,7 +7,7 @@ I built 3 models to predict the winner of a UFC fight based on age, height, and 
 * Linear Regression
 * Gradient Boosting
 #### The Random Forest Classifier model had the least mean absolute error and differed from the observed winner about 40% of the time.  In other words, it predicted the correct winner about 60% of the time - at least it's better than guessing!
-![image](https://user-images.githubusercontent.com/95881308/160259248-59050cff-7d6e-47ee-a307-85f45c5a3f11.png)
+![image](https://user-images.githubusercontent.com/95881308/160259269-1a47571b-7ac7-4e56-9714-681d389b7108.png)
 
 
 ## [Project 2: Factors Influencing Antler Size in Mature (4.5 & 5.5 years) Male White-tailed-Deer](https://github.com/sont5413/Predictors-of-Antler-Size-in-Mature-4.5-5.5-White-tailed-Deer)
