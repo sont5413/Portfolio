@@ -14,7 +14,7 @@ I built 3 models to predict the winner of a UFC fight based on age, height, and 
 * Each male was fed ab libitum one of two kinds of pelleted feed that differed in digestible energy, but had similar protein percentage (16%) from the time they were weaned. The standard energy diet 'S' had 2.65 kcal/g of dietary energy and the low energy diet 'L' had 1.77 kcal/g of dietary energy.
 * Interestingly, effects from the mother ('DID') were more influential than the effects from dietary energy on antler size of mature males.
 
-![image](https://user-images.githubusercontent.com/95881308/160259120-959b8b02-658a-4775-baed-03ccb7f597c8.png)
+![image](https://user-images.githubusercontent.com/95881308/160259175-3e9e8a2c-4c28-4027-9d04-1c950df2c592.png)
 
 
 ## [Project 2: Analyzed Factors Influencing Body and Antler Size Relationships in White-tailed Deer: Project Overview](https://github.com/sont5413/Deer-scaling-relationships)
