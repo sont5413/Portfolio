@@ -8,6 +8,15 @@ I built 3 models to predict the winner of a UFC fight based on age, height, and 
 * Gradient Boosting
 #### The Random Forest Classifier model had the least mean absolute error and differed from the observed winner about 40% of the time.  In other words, it predicted the correct winner about 60% of the time - at least it's better than guessing!
 
+## [# Predictors of Antler Size in Mature (4.5 & 5.5 years) White-tailed-Deer](https://github.com/sont5413/Predictors-of-Antler-Size-in-Mature-4.5-5.5-White-tailed-Deer)
+### I wanted to see what features influence antler size of mature male white-tailed deer.
+* Data: This is a unique dataset from a captive colony of white-tailed deer with known age, antler mass (kg), and maternal / paternal parentage.
+* Each male was fed ab libitum one of two kinds of pelleted feed that differed in digestible energy, but had similar protein percentage (16%) from the time they were weaned. The standard energy diet 'S' had 2.65 kcal/g of dietary energy and the low energy diet 'L' had 1.77 kcal/g of dietary energy.
+* Interestingly, effects from the mother ('DID') were more influential than the effects from dietary energy on antler size of mature males.
+
+![image](https://user-images.githubusercontent.com/95881308/160259091-b0afd24d-aa26-4d03-b7a4-cba3930d0fe4.png)
+
+
 ## [Project 2: Analyzed Factors Influencing Body and Antler Size Relationships in White-tailed Deer: Project Overview](https://github.com/sont5413/Deer-scaling-relationships)
 * Analyzed the degree to which maternal attributes (i.e., litter type and mother's age) and dietary energy influence body:antler size scaling relationships in white-tailed deer.
 * Analyzed these relationships at two levels: 1) through the entire lifespan of individuals, and 2) at 5 different age groups (i.e., 1.5, 2.5, 3.5, 4.5, and 5.5).
