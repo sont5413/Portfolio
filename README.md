@@ -29,8 +29,40 @@ I built 3 models to predict the winner of a UFC fight based on age, height, and 
 ### As shown by the figure below, clearly no feature alone has huge explanatory power. In fact, most have very little explanatory power (roughly ≤ 0.03). However, the number of UFC fights a fighter had previously "BPrev" had the most predictor power.
 ![image](https://user-images.githubusercontent.com/95881308/172012522-218d8f87-146d-469a-b100-7e3e42fb171f.png)
 
+## [Project 3: Assessing Antler and Body Size of Mature Deer at Four Military Bases in Texas](https://github.com/sont5413/Deer-Herd-Characteristics---TMD)
+I assessed mean antler and body size of mature (>= 4.5 years) male white-tailed deer at four military bases in Texas
 
-## [Project 3: Analyzed Factors Influencing Body and Antler Size Relationships in White-tailed Deer: Project Overview](https://github.com/sont5413/Deer-scaling-relationships)
+## A. Data
+* This is a patchy dataset of white-tailed deer harvest data dating back to 2008. The metric used for antler size is total mean beam length.  Dressed body mass is the metric for body size.
+
+## B. Goal:
+* Determine if antler and body size of mature males changes over time and differs among training sites.
+* Determine how large the sample sizes are for each site and year.
+
+Figure 1. Mean antler size with 95% confidence intervals of mature males at four military bases in Texas.
+
+![image](https://user-images.githubusercontent.com/95881308/174489405-4d3a9d69-c965-4c0b-9aae-a2ef57d13605.png)
+
+Figure 2. Mean body size with 95% confidence intervals of mature males at four military bases in Texas.
+
+![image](https://user-images.githubusercontent.com/95881308/174489428-a63b8603-41ce-46ea-9fa7-a39e23147b0e.png)
+
+## C. Implications:
+* You can see how small the sample sizes are just bases on how wide the confidence intervals are for some sites and seasons.
+* Bowie has the largest sample sizes and therefore highest confidence in estimates for mean antler size and body size.
+
+### a. Body Size:
+* For the 2021 season, Swift can be interpretted as having the largest body size among mature deer.  While Maxey has a similar estimate for mean body size, the confidence intervals are too wide to interpret with confidence.
+* Body size of mature males appears to remain stable at Bowie.
+* Based on data from 2019 and 2021, it might be that mature males at Swift are a bit larger than the other sites.
+
+### b. Antler Size:
+* Bowie appears to have slightly larger antler size of mature males compared to Maxey.  However, there confidence intervals overlap so the comparison is with low confidence.
+* Overall, antler size of mature males is similar among the four sites. I would be curious to see what these trends looked like with much more data.
+
+
+
+## [Project 4: Analyzed Factors Influencing Body and Antler Size Relationships in White-tailed Deer: Project Overview](https://github.com/sont5413/Deer-scaling-relationships)
 * Analyzed the degree to which maternal attributes (i.e., litter type and mother's age) and dietary energy influence body:antler size scaling relationships in white-tailed deer.
 * Analyzed these relationships at two levels: 1) through the entire lifespan of individuals, and 2) at 5 different age groups (i.e., 1.5, 2.5, 3.5, 4.5, and 5.5).
 * antler size and body size were log transformed in the .csv
@@ -45,7 +77,7 @@ I built 3 models to predict the winner of a UFC fight based on age, height, and 
 
 
 
-## [Project 4: Analyzed COVID-19 case rates for the month of January 2021 across 5 states that showed the highest increase in new cases](https://github.com/sont5413/CovidCasesJAN21)
+## [Project 5: Analyzed COVID-19 case rates for the month of January 2021 across 5 states that showed the highest increase in new cases](https://github.com/sont5413/CovidCasesJAN21)
 * I analyzed an intercepts and slopes linear mixed effect model with State as the random factor.
 * I also analyzed the 95% confidence interval of the fixed effect slope to conclude if rates vary among states. 
 * My results show that the rate of exponential growth does not vary across the states. 
