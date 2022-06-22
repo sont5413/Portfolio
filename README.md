@@ -1,7 +1,7 @@
 # Willis Sontheimer Portfolio
 
 ## [Project 1: Factors Influencing Antler Size in Mature (4.5 & 5.5 years) Male White-tailed-Deer](https://github.com/sont5413/Predictors-of-Antler-Size-in-Mature-4.5-5.5-White-tailed-Deer)
-### I wanted to see what features influence antler size of mature (4.5- and 5.5-year-old) male white-tailed deer.
+### I analyzed features that influence antler size of mature (4.5- and 5.5-year-old) male white-tailed deer.
 * Data: This is a unique dataset from a captive colony of white-tailed deer with known age, antler mass (kg), and maternal / paternal parentage.
 * Each male was fed ab libitum one of two kinds of pelleted feed that differed in digestible energy, but had similar protein percentage (16%) from the time they were weaned. The standard energy diet 'S' had 2.65 kcal/g of dietary energy and the low energy diet 'L' had 1.77 kcal/g of dietary energy.
 
@@ -31,7 +31,7 @@
 ![image](https://user-images.githubusercontent.com/95881308/172012522-218d8f87-146d-469a-b100-7e3e42fb171f.png)
 
 ## [Project 3: Assessing Antler and Body Size of Mature Deer at Four Military Bases in Texas](https://github.com/sont5413/Deer-Herd-Characteristics---TMD)
-I assessed mean antler and body size of mature (>= 4.5 years) male white-tailed deer at four military bases in Texas
+#### I assessed mean antler and body size of mature (>= 4.5 years) male white-tailed deer at four military bases in Texas
 
 ## A. Data
 * This is a patchy dataset of white-tailed deer harvest data dating back to 2008. The metric used for antler size is total mean beam length.  Dressed body mass is the metric for body size.
