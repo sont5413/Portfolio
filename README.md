@@ -2,19 +2,19 @@
 
 ## [Project 1: Factors Influencing Antler Size in Mature (4.5 & 5.5 years) Male White-tailed-Deer](https://github.com/sont5413/Predictors-of-Antler-Size-in-Mature-4.5-5.5-White-tailed-Deer)
 ### I analyzed features that were assumed to influence antler size of mature (4.5- and 5.5-year-old) male white-tailed deer.
-* Data: This is a unique dataset from a captive colony of white-tailed deer with known age, antler mass (kg), and maternal / paternal parentage.
+* Data: This was a unique dataset from a captive colony of white-tailed deer with known age, antler mass (kg), and maternal / paternal parentage.
 * Each male was fed ab libitum one of two kinds of pelleted feed that differed in digestible energy, but had similar protein percentage (16%) from the time they were weaned. The standard energy diet 'S' had 2.65 kcal/g of dietary energy and the low energy diet 'L' had 1.77 kcal/g of dietary energy.
 
 ## Findings
 * DaB and Lit Type were not important features. Therefore, the two smaller datasets that included them were not interpreted.
 
 ### A. 4.5-year-olds:
-* Antler size of 4.5-year-old males is most influenced by the birth weight of the male. What's most surprising here is that, when it comes to determing antler size of mature males, it didn't really matter whether males had been eating a low or high energy diet ('Energy') throughout their life
+* Antler size of 4.5-year-old males was most influenced by the birth weight of the male. What's most surprising here is that, when it comes to determing antler size of mature males, it didn't really matter whether males had been eating a low or high energy diet ('Energy') throughout their life
 
 ![image](https://user-images.githubusercontent.com/95881308/174356911-32e0dcf2-3de1-4c5f-97c4-1eacf9ea46f6.png)
 
 ### B. 5.5-year-olds: 
-* Like in 4.5-year-olds, antler size of 5.5-year-old males is most influenced by the birth weight of the male. The father of the individual male ('SID') was the second highest ranked feature. Also, eating a low or high energy diet ('Energy') was not an important feature in predicting antler size of 5.5-year-olds.
+* Like in 4.5-year-olds, antler size of 5.5-year-old males was most influenced by the birth weight of the male. The father of the individual male ('SID') was the second highest ranked feature. Also, eating a low or high energy diet ('Energy') was not an important feature in predicting antler size of 5.5-year-olds.
 
 ![image](https://user-images.githubusercontent.com/95881308/174356922-f911d2bd-3fa6-4241-b419-e0aa2b9bc340.png)
 
@@ -27,7 +27,7 @@
 
 #### The Random Forest Classifier model had the least mean absolute error and differed from the observed winner about 40% of the time.  In other words, it predicted the correct winner about 60% of the time!
 
-#### As shown by the figure below, clearly no feature alone has huge explanatory power. In fact, most have very little explanatory power (roughly ≤ 0.03). However, the number of UFC fights a fighter had previously "BPrev" had the most predictor power.
+#### As shown by the figure below, clearly no feature alone has huge explanatory power. In fact, most have very little explanatory power (roughly ≤ 0.03).  This is suprising and it isn't.  MMA is a complex sport with many variables and often yields unexpected outcomes.  However, It is surpsing that features such as height, weight, and age of fighter do not rank higher as features.
 ![image](https://user-images.githubusercontent.com/95881308/172012522-218d8f87-146d-469a-b100-7e3e42fb171f.png)
 
 ## [Project 3: Assessing Antler and Body Size of Mature Deer at Four Military Bases in Texas](https://github.com/sont5413/Deer-Herd-Characteristics---TMD)
