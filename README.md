@@ -6,7 +6,7 @@
 * Each male was fed ab libitum one of two kinds of pelleted feed that differed in digestible energy, but had similar protein percentage (16%) from the time they were weaned. The standard energy diet 'S' had 2.65 kcal/g of dietary energy and the low energy diet 'L' had 1.77 kcal/g of dietary energy.
 
 ## Findings
-* DaB and Lit Type were not important feature. Therefore, their output will be ignored in favor of the larger dataset where they were not included as predictors. 
+* DaB and Lit Type were not important features. Therefore, the two smaller datasets that included them were not interpreted.
 
 ### A. 4.5-year-olds:
 * Antler size of 4.5-year-old males is most influenced by the birth weight of the male. What's most surprising here is that, when it comes to determing antler size of mature males, it didn't really matter whether males had been eating a low or high energy diet ('Energy') throughout their life
