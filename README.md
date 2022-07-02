@@ -20,18 +20,21 @@
 
 
 ## [Project 2: Predicting Winners of UFC Fights](https://github.com/sont5413/UFC-Fight-Data)
-#### I built 3 classification models to predict the winner of a UFC fight based on age, height, and so on of the "red" fighter and the "blue" fighter.
+### Predicting Winners of UFC Fights
+I built 2 classification models to predict the winner of a UFC fight based on age, height, and so on of the "red" fighter and the "blue fighter.
 * Random Forest 
-* Linear Regression
 * Gradient Boosting
 
-#### The Random Forest Classifier model had the least mean absolute error and differed from the observed winner about 40% of the time.  In other words, it predicted the correct winner about 60% of the time!
+The Random Forest  model had the least mean absolute error and differed from the observed winner about 40% of the time.  In other words, it predicted the correct winner about 60% of the time!
 
-#### As shown by the figure below, clearly no feature alone has huge explanatory power. In fact, most have very little explanatory power (roughly ≤ 0.03).  This is suprising and it isn't.  MMA is a complex sport with many variables and often yields unexpected outcomes.  However, It is surpsing that features such as height, weight, and age of fighter do not rank higher as features.
-![image](https://user-images.githubusercontent.com/95881308/172012522-218d8f87-146d-469a-b100-7e3e42fb171f.png)
+
+#### Figure. Clearly no feature alone has huge explanatory power. In fact, most have very little explanatory power (roughly ≤ 0.03). However, the number of UFC fights a fighter had previously "BPrev" had the most predictor power.
+
+![image](https://user-images.githubusercontent.com/95881308/177015092-8a2329ed-2c68-43e5-9e70-3e13c80a5441.png)
+
 
 ## [Project 3: Assessing Antler and Body Size of Mature Deer at Four Military Bases in Texas](https://github.com/sont5413/Deer-Herd-Characteristics---TMD)
-#### I assessed mean antler and body size of mature (>= 4.5 years) male white-tailed deer at four military bases in Texas
+### I assessed mean antler and body size of mature (>= 4.5 years) male white-tailed deer at four military bases in Texas
 
 ## A. Data
 * This is a patchy dataset of white-tailed deer harvest data dating back to 2008. The metric used for antler size is total mean beam length.  Dressed body mass is the metric for body size.
