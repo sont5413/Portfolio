@@ -20,7 +20,7 @@
 
 
 ## [Project 2: Predicting Winners of UFC Fights](https://github.com/sont5413/UFC-Fight-Data)
-#### I built 3 models to predict the winner of a UFC fight based on age, height, and so on of the "red" fighter and the "blue" fighter.
+#### I built 3 classification models to predict the winner of a UFC fight based on age, height, and so on of the "red" fighter and the "blue" fighter.
 * Random Forest 
 * Linear Regression
 * Gradient Boosting
