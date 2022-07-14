@@ -40,7 +40,7 @@ The Random Forest  model had the least mean absolute error and differed from the
 #### Figure 2. Estimated Buck to Doe ratio at four TMD installations between 2007 and 2021.  The optimal buck to doe ratio is 1.0 and is represented by a horizontal line.
 ![image](https://user-images.githubusercontent.com/95881308/179098076-713689e1-9e88-4076-a5e5-9b1ce700198f.png)
 
-#### Figure 3. Estimated Buck to Doe ratio at four TMD installations between 2007 and 2021.  An excellent fawn to doe ratio is 1.0 and is represented by a horizontal line.
+#### Figure 3. Estimated Fawn to Doe ratio at four TMD installations between 2007 and 2021.  An excellent fawn to doe ratio is 1.0 and is represented by a horizontal line.
 ![image](https://user-images.githubusercontent.com/95881308/179098087-43ffa255-f0ad-4806-89e9-940958627b92.png)
 
 ## [Project 4: Assessing Antler and Body Size of Mature Deer at Four Military Bases in Texas](https://github.com/sont5413/Deer-Herd-Characteristics---TMD)
