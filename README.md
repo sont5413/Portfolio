@@ -32,8 +32,18 @@ The Random Forest  model had the least mean absolute error and differed from the
 
 ![image](https://user-images.githubusercontent.com/95881308/177015092-8a2329ed-2c68-43e5-9e70-3e13c80a5441.png)
 
+## [Project 3: Deer density and demographic trends from spotlight survey data at TMD installations collected between 2007 and 2021]https://github.com/sont5413/TMD-Deer-Demographics-From-Past-Surveys
 
-## [Project 3: Assessing Antler and Body Size of Mature Deer at Four Military Bases in Texas](https://github.com/sont5413/Deer-Herd-Characteristics---TMD)
+#### Figure 1. Estimated deer density (acres per deer) at four TMD installations between 2007 and 2021.  The optimal deer density for this region of Texas (15 acres/deer) is represented by a horizontal line.
+![image](https://user-images.githubusercontent.com/95881308/179097714-b0b64a36-6ae8-43b8-bbf8-9f03ecb779f5.png)
+
+#### Figure 2. Estimated Buck to Doe ratio at four TMD installations between 2007 and 2021.  The optimal buck to doe ratio is 1.0 and is represented by a horizontal line.
+![image](https://user-images.githubusercontent.com/95881308/179098076-713689e1-9e88-4076-a5e5-9b1ce700198f.png)
+
+#### Figure 3. Estimated Buck to Doe ratio at four TMD installations between 2007 and 2021.  An excellent fawn to doe ratio is 1.0 and is represented by a horizontal line.
+![image](https://user-images.githubusercontent.com/95881308/179098087-43ffa255-f0ad-4806-89e9-940958627b92.png)
+
+## [Project 4: Assessing Antler and Body Size of Mature Deer at Four Military Bases in Texas](https://github.com/sont5413/Deer-Herd-Characteristics---TMD)
 ### I assessed mean antler and body size of mature (>= 4.5 years) male white-tailed deer at four military bases in Texas
 
 ## A. Data
@@ -65,8 +75,7 @@ Figure 2. Mean body size with 95% confidence intervals of mature males at four m
 * Overall, antler size of mature males is similar among the four sites. I would be curious to see what these trends looked like with much more data.
 
 
-
-## [Project 4: Analyzed Factors Influencing Body and Antler Size Relationships in White-tailed Deer: Project Overview](https://github.com/sont5413/Deer-scaling-relationships)
+## [Project 5: Analyzed Factors Influencing Body and Antler Size Relationships in White-tailed Deer: Project Overview](https://github.com/sont5413/Deer-scaling-relationships)
 * Analyzed the degree to which maternal attributes (i.e., litter type and mother's age) and dietary energy influence body:antler size scaling relationships in white-tailed deer.
 * Analyzed these relationships at two levels: 1) through the entire lifespan of individuals, and 2) at 5 different age groups (i.e., 1.5, 2.5, 3.5, 4.5, and 5.5).
 * antler size and body size were log transformed in the .csv
@@ -81,7 +90,7 @@ Figure 2. Mean body size with 95% confidence intervals of mature males at four m
 
 
 
-## [Project 5: Analyzed COVID-19 case rates for the month of January 2021 across 5 states that showed the highest increase in new cases](https://github.com/sont5413/CovidCasesJAN21)
+## [Project 6: Analyzed COVID-19 case rates for the month of January 2021 across 5 states that showed the highest increase in new cases](https://github.com/sont5413/CovidCasesJAN21)
 * I analyzed an intercepts and slopes linear mixed effect model with State as the random factor.
 * I also analyzed the 95% confidence interval of the fixed effect slope to conclude if rates vary among states. 
 * My results show that the rate of exponential growth does not vary across the states. 
