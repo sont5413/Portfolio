@@ -1,7 +1,7 @@
 # Willis Sontheimer Portfolio
 
 ## [Project 1: Factors Influencing Antler Size in Mature (4.5 & 5.5 years) Male White-tailed-Deer](https://github.com/sont5413/Predictors-of-Antler-Size-in-Mature-4.5-5.5-White-tailed-Deer)
-### I analyzed features that were assumed to influence antler size of mature (4.5- and 5.5-year-old) male white-tailed deer.
+### I analyzed features that were hypothesized to influence antler size of mature (4.5- and 5.5-year-old) male white-tailed deer.
 * Data: This was a unique dataset from a captive colony of white-tailed deer with known age, antler mass (kg), and maternal / paternal parentage.
 * Each male was fed ab libitum one of two kinds of pelleted feed that differed in digestible energy, but had similar protein percentage (16%) from the time they were weaned. The standard energy diet 'S' had 2.65 kcal/g of dietary energy and the low energy diet 'L' had 1.77 kcal/g of dietary energy.
 
