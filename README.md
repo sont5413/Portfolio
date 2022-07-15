@@ -32,7 +32,7 @@ The Random Forest  model had the least mean absolute error and differed from the
 
 ![image](https://user-images.githubusercontent.com/95881308/177015092-8a2329ed-2c68-43e5-9e70-3e13c80a5441.png)
 
-## [Project 3: Deer density and demographic trends from spotlight survey data at TMD installations collected between 2007 and 2021]https://github.com/sont5413/TMD-Deer-Demographics-From-Past-Surveys
+## [Project 3: Deer density and demographic trends from spotlight survey data at TMD installations collected between 2007 and 2021](https://github.com/sont5413/TMD-Deer-Demographics-From-Past-Surveys)
 
 #### Figure 1. Estimated deer density (acres per deer) at four TMD installations between 2007 and 2021.  The optimal deer density for this region of Texas (15 acres/deer) is represented by a horizontal line.
 ![image](https://user-images.githubusercontent.com/95881308/179097714-b0b64a36-6ae8-43b8-bbf8-9f03ecb779f5.png)
