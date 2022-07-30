@@ -52,7 +52,10 @@ The Random Forest  model had the least mean absolute error and differed from the
 #### Figure 3. Estimated Fawn to Doe ratio at four TMD installations between 2007 and 2021.  An excellent fawn to doe ratio is 1.0 and is represented by a horizontal line.
 ![image](https://user-images.githubusercontent.com/95881308/179098087-43ffa255-f0ad-4806-89e9-940958627b92.png)
 
-## [Project 4: Assessing Antler and Body Size of Mature Deer at Four Military Bases in Texas](https://github.com/sont5413/Deer-Herd-Characteristics---TMD)
+## [Project 4: I built a Shiny app to display deer density trends at TMD's training sites](https://github.com/sont5413/Shiny-App-deer-density-by-site-and-year)
+link: https://willis-sontheimer.shinyapps.io/Deer_density_by_year_and_training_site/
+
+## [Project 5: Assessing Antler and Body Size of Mature Deer at Four Military Bases in Texas](https://github.com/sont5413/Deer-Herd-Characteristics---TMD)
 ### I assessed mean antler and body size of mature (>= 4.5 years) male white-tailed deer at four military bases in Texas
 
 ## A. Data
@@ -82,9 +85,6 @@ Figure 2. Mean body size with 95% confidence intervals of mature males at four m
 ### b. Antler Size:
 * Bowie appears to have slightly larger antler size of mature males compared to Maxey.  However, there confidence intervals overlap so the comparison is with low confidence.
 * Overall, antler size of mature males is similar among the four sites. I would be curious to see what these trends looked like with much more data.
-
-## [Project 5: I built a Shiny app to display deer density trends at TMD's training sites](https://github.com/sont5413/Shiny-App-deer-density-by-site-and-year)
-link: https://willis-sontheimer.shinyapps.io/Deer_density_by_year_and_training_site/
 
 ## [Project 6: Analyzed Factors Influencing Body and Antler Size Relationships in White-tailed Deer: Project Overview](https://github.com/sont5413/Deer-scaling-relationships)
 * Analyzed the degree to which maternal attributes (i.e., litter type and mother's age) and dietary energy influence body:antler size scaling relationships in white-tailed deer.
