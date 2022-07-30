@@ -83,8 +83,10 @@ Figure 2. Mean body size with 95% confidence intervals of mature males at four m
 * Bowie appears to have slightly larger antler size of mature males compared to Maxey.  However, there confidence intervals overlap so the comparison is with low confidence.
 * Overall, antler size of mature males is similar among the four sites. I would be curious to see what these trends looked like with much more data.
 
+## [Project 5: I built a Shiny app to display deer density trends at TMD's training sites](https://github.com/sont5413/Shiny-App-deer-density-by-site-and-year)
+link: https://willis-sontheimer.shinyapps.io/Deer_density_by_year_and_training_site/
 
-## [Project 5: Analyzed Factors Influencing Body and Antler Size Relationships in White-tailed Deer: Project Overview](https://github.com/sont5413/Deer-scaling-relationships)
+## [Project 6: Analyzed Factors Influencing Body and Antler Size Relationships in White-tailed Deer: Project Overview](https://github.com/sont5413/Deer-scaling-relationships)
 * Analyzed the degree to which maternal attributes (i.e., litter type and mother's age) and dietary energy influence body:antler size scaling relationships in white-tailed deer.
 * Analyzed these relationships at two levels: 1) through the entire lifespan of individuals, and 2) at 5 different age groups (i.e., 1.5, 2.5, 3.5, 4.5, and 5.5).
 * antler size and body size were log transformed in the .csv
@@ -99,7 +101,7 @@ Figure 2. Mean body size with 95% confidence intervals of mature males at four m
 
 
 
-## [Project 6: Analyzed COVID-19 case rates for the month of January 2021 across 5 states that showed the highest increase in new cases](https://github.com/sont5413/CovidCasesJAN21)
+## [Project 7: Analyzed COVID-19 case rates for the month of January 2021 across 5 states that showed the highest increase in new cases](https://github.com/sont5413/CovidCasesJAN21)
 * I analyzed an intercepts and slopes linear mixed effect model with State as the random factor.
 * I also analyzed the 95% confidence interval of the fixed effect slope to conclude if rates vary among states. 
 * My results show that the rate of exponential growth does not vary across the states. 
