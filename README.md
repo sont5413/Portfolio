@@ -75,16 +75,7 @@ Figure 2. Mean body size with 95% confidence intervals of mature males at four m
 
 ## C. Implications:
 * You can see how small the sample sizes are just based on how wide the confidence intervals are for some sites and seasons.
-* Bowie has the largest sample sizes and therefore highest confidence in estimates for mean antler size and body size.
-
-### a. Body Size:
-* For the 2021 season, Swift can be interpretted as having the largest body size among mature deer.  While Maxey has a similar estimate for mean body size, the confidence intervals are too wide to interpret with confidence.
-* Body size of mature males appears to remain stable at Bowie.
-* Based on data from 2019 and 2021, it might be that mature males at Swift are a bit larger than the other sites.
-
-### b. Antler Size:
-* Bowie appears to have slightly larger antler size of mature males compared to Maxey.  However, there confidence intervals overlap so the comparison is with low confidence.
-* Overall, antler size of mature males is similar among the four sites. I would be curious to see what these trends looked like with much more data.
+* Bowie has the largest sample sizes and therefore highest confidence in estimates for mean antler size and body size.  
 
 ## [Project 6: Analyzed Factors Influencing Body and Antler Size Relationships in White-tailed Deer: Project Overview](https://github.com/sont5413/Deer-scaling-relationships)
 * Analyzed the degree to which maternal attributes (i.e., litter type and mother's age) and dietary energy influence body:antler size scaling relationships in white-tailed deer.
