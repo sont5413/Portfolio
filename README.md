@@ -27,8 +27,28 @@
 
 ![image](https://user-images.githubusercontent.com/95881308/180613432-ff440678-a9f7-4424-bc4e-b74e992a5991.png)
 
+![image](https://user-images.githubusercontent.com/95881308/197412724-3d32f019-969e-4338-bb2b-126346c17040.png)
 
-## [Project 2: Predicting Winners of UFC Fights](https://github.com/sont5413/UFC-Fight-Data)
+## [Project 2: Predicting Number of Fatalities from Tornadic Events](https://github.com/sont5413/tornado)
+
+Image of the 1999 Bridge Creek–Moore tornado, which is the strongest tornado ever recorded, globally. It affected the Oklahoma City, Oklahoma metropolitan area.
+
+### I wanted to see what features from a tornado predict  number of fatalities
+* Data: This is a dataset maintained by the National Oceanic and Atmospheric Administration (NOAA) of all recorded tornados since 1951.
+
+## Methods: 
+* Model selection: Split data into test and train datasets and evaluate model perforamnce by mean absolute error (MAE). Evaluate performanc of random forest (rf), gradient boosting (gb), and xgboosting (xgb) regressor models.  The rf regressor model had the least MAE.
+* Feature importance: Assess important features of the rf regressor model
+
+## Findings 
+![image](https://user-images.githubusercontent.com/95881308/197411943-a91149c5-45de-471a-ae10-b06659592272.png)
+
+* A tornado's magnitude was not the most important feature in predicting number of fatalities from a tornado
+* The month, time zone, and state were all more predictive power
+
+All else being equal, magnitude should be the most predictive factor, along with length and width of the tornado's path.  Of course, there is variability in what lies in the path of a tornado.  It is not always the case that a tornado's path overlaps with major city centers, major highways, and so on. 
+
+## [Project 3: Predicting Winners of UFC Fights](https://github.com/sont5413/UFC-Fight-Data)
 ### Predicting Winners of UFC Fights
 I built 2 classification models to predict the winner of a UFC fight based on age, height, and so on of the "red" fighter and the "blue fighter.
 * Random Forest 
@@ -41,7 +61,7 @@ The Random Forest  model had the least mean absolute error and differed from the
 
 ![image](https://user-images.githubusercontent.com/95881308/177015092-8a2329ed-2c68-43e5-9e70-3e13c80a5441.png)
 
-## [Project 3: Deer density and demographic trends from spotlight survey data at TMD installations collected between 2007 and 2021](https://github.com/sont5413/TMD-Deer-Demographics-From-Past-Surveys)
+## [Project 4: Deer density and demographic trends from spotlight survey data at TMD installations collected between 2007 and 2021](https://github.com/sont5413/TMD-Deer-Demographics-From-Past-Surveys)
 
 #### Figure 1. Estimated deer density (acres per deer) at four TMD installations between 2007 and 2021.  The optimal deer density for this region of Texas (15 acres/deer) is represented by a horizontal line.
 ![image](https://user-images.githubusercontent.com/95881308/179097714-b0b64a36-6ae8-43b8-bbf8-9f03ecb779f5.png)
