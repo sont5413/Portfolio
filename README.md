@@ -30,10 +30,9 @@
 
 ![image](https://user-images.githubusercontent.com/95881308/180613432-ff440678-a9f7-4424-bc4e-b74e992a5991.png)
 
-![image](https://user-images.githubusercontent.com/95881308/197412724-3d32f019-969e-4338-bb2b-126346c17040.png)
-
 ## [Project 2: Predicting Number of Fatalities from Tornadic Events](https://github.com/sont5413/tornado)
 
+![image](https://user-images.githubusercontent.com/95881308/197412724-3d32f019-969e-4338-bb2b-126346c17040.png)
 Image of the 1999 Bridge Creek–Moore tornado, which is the strongest tornado ever recorded, globally. It affected the Oklahoma City, Oklahoma metropolitan area.
 
 ### I wanted to see what features from a tornado predict  number of fatalities
