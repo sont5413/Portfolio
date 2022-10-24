@@ -67,17 +67,18 @@ The Random Forest  model had the least mean absolute error and differed from the
 
 ## [Project 4: Deer density and demographic trends from spotlight survey data at TMD installations collected between 2007 and 2021](https://github.com/sont5413/TMD-Deer-Demographics-From-Past-Surveys)
 
-![image](https://user-images.githubusercontent.com/95881308/197414689-7f7ccff4-a90b-412c-b9df-c945397e446c.png)
+![image](https://user-images.githubusercontent.com/95881308/197414710-269af222-4655-49b4-8100-c58f23e4cd53.png)
 
+## I assessed deer density and herd composition trends from spotlight survey data collected between 2007 and 2022.
 
-#### Figure 1. Estimated deer density (acres per deer) at four TMD installations between 2007 and 2021.  The optimal deer density for this region of Texas (15 acres/deer) is represented by a horizontal line.
-![image](https://user-images.githubusercontent.com/95881308/179097714-b0b64a36-6ae8-43b8-bbf8-9f03ecb779f5.png)
+#### Figure 1. Estimated deer density (acres per deer) at four military training sites in Texas between 2007 and 2022.  A management goal for these herds is to maintain deer densities between 10 and 20 acres per deer, which is represented by the red shaded area.
+![image](https://user-images.githubusercontent.com/95881308/194447278-e269791f-9084-451b-b7fa-ade77108d64f.png)
 
-#### Figure 2. Estimated Buck to Doe ratio at four TMD installations between 2007 and 2021.  The optimal buck to doe ratio is 1.0 and is represented by a horizontal line.
-![image](https://user-images.githubusercontent.com/95881308/179098076-713689e1-9e88-4076-a5e5-9b1ce700198f.png)
+#### Figure 2. Estimated buck to doe ratios at four military training sites in Texas between 2007 and 2022.  A management goal for these herds is to maintain buck to doe ratios at roughly 0.5, which is represented by a horizontal line.
+![image](https://user-images.githubusercontent.com/95881308/194447510-c1242a22-831e-413a-843a-ff092ca15f46.png)
 
-#### Figure 3. Estimated Fawn to Doe ratio at four TMD installations between 2007 and 2021.  An excellent fawn to doe ratio is 1.0 and is represented by a horizontal line.
-![image](https://user-images.githubusercontent.com/95881308/179098087-43ffa255-f0ad-4806-89e9-940958627b92.png)
+#### Figure 3. Estimated Fawn to Doe ratio at four military training sites in Texas between 2007 and 2021.  A healthy fawn to doe ratio is 0.75 and is represented by a horizontal line.
+![image](https://user-images.githubusercontent.com/95881308/194447716-2d0587d0-5d42-489c-b8a3-d663da4d3166.png)
 
 ## [Project 4: I built a Shiny app to display deer density trends at TMD's training sites](https://github.com/sont5413/Shiny-App-deer-density-by-site-and-year)
 link: https://willis-sontheimer.shinyapps.io/Deer_density_by_year_and_training_site/
