@@ -47,7 +47,7 @@ Image of the 1999 Bridge Creek–Moore tornado, which is the strongest tornado e
 
 ![image](https://user-images.githubusercontent.com/95881308/197559293-dd65eebf-49eb-4194-8ce3-f52ff67d0d5a.png)
 
-* A tornado's magnitude was the most important feature in predicting number of fatalities from a tornado.
+* A tornado's magnitude was the most important feature in predicting number of fatalities from a tornado.  Tornado length was nearly as predictive as magnitude.
 
 ## [Project 3: Predicting Winners of UFC Fights](https://github.com/sont5413/UFC-Fight-Data)
 ### Predicting Winners of UFC Fights
