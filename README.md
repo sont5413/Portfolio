@@ -21,7 +21,12 @@
 
 Body Mass was the most important feature and far and away more predictive than any of the other features.
 
-## [Project 2: Predicting Number of Fatalities from Tornadic Events](https://github.com/sont5413/tornado)
+## [Project 2: Assessing effects of precipitatio and temperature (with time lags) on deer body mass](https://github.com/sont5413/Environmental_influences_on_deer_body_mass)
+
+### I analyzed the effects of annual precipitation and temperature, with timelags ranging from 0-5 years, on body size in white-tailed deer.
+  * I analyzed these effects separately in females and males.
+
+## [Project 3: Predicting Number of Fatalities from Tornadic Events](https://github.com/sont5413/tornado)
 
 ![image](https://user-images.githubusercontent.com/95881308/197412724-3d32f019-969e-4338-bb2b-126346c17040.png)
 
@@ -30,18 +35,18 @@ Image of the 1999 Bridge Creek–Moore tornado, which is the strongest tornado e
 ### I wanted to see what features from a tornado predict  number of fatalities
 * Data: This is a dataset maintained by the National Oceanic and Atmospheric Administration (NOAA) of all recorded tornados since 1951.
 
-## Methods: 
+#### Methods: 
 * Model selection: Split data into test and train datasets and evaluate model perforamnce by mean absolute error (MAE). Evaluate performanc of random forest (rf), gradient boosting (gb), and xgboosting (xgb) regressor models.  The rf regressor model had the least MAE.
 * Feature importance: Assess important features of the rf regressor model
 
-## Findings: 
+#### Findings: 
 
 ![image](https://user-images.githubusercontent.com/95881308/197559293-dd65eebf-49eb-4194-8ce3-f52ff67d0d5a.png)
 
 * A tornado's magnitude was the most important feature in predicting number of fatalities from a tornado.  Tornado length was nearly as predictive as magnitude.
 
-## [Project 3: Predicting Winners of UFC Fights](https://github.com/sont5413/UFC-Fight-Data)
-### Predicting Winners of UFC Fights
+## [Project 4: Predicting Winners of UFC Fights](https://github.com/sont5413/UFC-Fight-Data)
+## Predicting Winners of UFC Fights
 I built 2 classification models to predict the winner of a UFC fight based on age, height, and so on of the "red" fighter and the "blue fighter.
 * Random Forest 
 * Gradient Boosting
@@ -55,12 +60,11 @@ The Random Forest  model had the least mean absolute error and differed from the
 
 * Clearly no feature alone has huge explanatory power. In fact, most have very little explanatory power (roughly ≤ 0.03). However, the number of UFC fights a fighter had previously ('BPrev') had the most predictor power.
 
-
-## [Project 4: Deer density and demographic trends from spotlight survey data at TMD installations collected between 2007 and 2021](https://github.com/sont5413/TMD-Deer-Demographics-From-Past-Surveys)
+## [Project 5: Deer density and demographic trends from spotlight survey data at TMD installations collected between 2007 and 2021](https://github.com/sont5413/TMD-Deer-Demographics-From-Past-Surveys)
 
 ![image](https://user-images.githubusercontent.com/95881308/197414710-269af222-4655-49b4-8100-c58f23e4cd53.png)
 
-## I assessed deer density and herd composition trends from spotlight survey data collected between 2007 and 2022.
+### I assessed deer density and herd composition trends from spotlight survey data collected between 2007 and 2022.
 
 #### Figure 1. Estimated deer density (acres per deer) at four military training sites in Texas between 2007 and 2022.  A management goal for these herds is to maintain deer densities between 10 and 20 acres per deer, which is represented by the red shaded area.
 ![image](https://user-images.githubusercontent.com/95881308/194447278-e269791f-9084-451b-b7fa-ade77108d64f.png)
@@ -71,8 +75,16 @@ The Random Forest  model had the least mean absolute error and differed from the
 #### Figure 3. Estimated Fawn to Doe ratio at four military training sites in Texas between 2007 and 2021.  A healthy fawn to doe ratio is 0.75 and is represented by a horizontal line.
 ![image](https://user-images.githubusercontent.com/95881308/194447716-2d0587d0-5d42-489c-b8a3-d663da4d3166.png)
 
-## [Project 4: I built a Shiny app to display deer density trends at TMD's training sites](https://github.com/sont5413/Shiny-App-deer-density-by-site-and-year)
-link: https://willis-sontheimer.shinyapps.io/Deer_density_by_year_and_training_site/
+## [Project 4: R Shiny apps that I have built](https://github.com/sont5413/R-Shiny-Apps)
+#### Fish species and capture location data viz:
+   https://willis-sontheimer.shinyapps.io/Fish_app/
+
+#### Water-quality trends at TMD training sites: 
+   https://willis-sontheimer.shinyapps.io/Water-quality/
+   
+
+#### Deer demographic trends at TMD training sites: 
+   https://willis-sontheimer.shinyapps.io/Deer_density_by_year_and_training_site/
 
 ## [Project 5: Assessing Antler and Body Size of Mature Deer at Four Military Bases in Texas](https://github.com/sont5413/Deer-Herd-Characteristics---TMD)
 ### I assessed mean antler and body size of mature (>= 4.5 years) male white-tailed deer at four military bases in Texas
