@@ -21,12 +21,30 @@
 
 Body Mass was the most important feature and far and away more predictive than any of the other features.
 
-## [Project 2: Assessing effects of precipitatio and temperature (with time lags) on deer body mass](https://github.com/sont5413/Environmental_influences_on_deer_body_mass)
+## [Project 2: I assessed the effects of environmental factors on estimates of deer density from spotlight surveys](https://github.com/sont5413/Environmental_effects_deer_survey_estimates)
+
+#### Project Summary: 
+The environmental factors below do not signiciantly influence estimates of deer density made from spotlight surveys.  Temperature was found to be the most influential predictor from a multiple linear regression model (MLR) and two machine learning models (random forest and gradient boosting).  The R2 of the selected linear model was poor (~ 0.10).  However, temperature was found to be a statistically significant predictor (p < 0.001).  The selected MLR found that for every 1 degree fahreheit increase in temperature, there was a 0.80 decrease in the deer density. Environmental factors: 
+
+* month of the year (numerical)
+* temperature (continuous variable)
+* wind (binary)
+* cloud cover (index)
+* rain (binary)
+* snow (binary)
+* fog (binary)
+* moon phase
+
+#### Dataset: 
+
+I found this dataset through google's public dataset search.  This is deer spotlight survey data collected by the Department of the Interior in Great Smoky Mountains National Park from 1993-2003.
+
+## [Project 3: Assessing effects of precipitatio and temperature (with time lags) on deer body mass](https://github.com/sont5413/Environmental_influences_on_deer_body_mass)
 
 ### I analyzed the effects of annual precipitation and temperature, with timelags ranging from 0-5 years, on body size in white-tailed deer.
   * I analyzed these effects separately in females and males.
 
-## [Project 3: Predicting Number of Fatalities from Tornadic Events](https://github.com/sont5413/tornado)
+## [Project 4: Predicting Number of Fatalities from Tornadic Events](https://github.com/sont5413/tornado)
 
 ![image](https://user-images.githubusercontent.com/95881308/197412724-3d32f019-969e-4338-bb2b-126346c17040.png)
 
@@ -45,7 +63,7 @@ Image of the 1999 Bridge Creek–Moore tornado, which is the strongest tornado e
 
 * A tornado's magnitude was the most important feature in predicting number of fatalities from a tornado.  Tornado length was nearly as predictive as magnitude.
 
-## [Project 4: Predicting Winners of UFC Fights](https://github.com/sont5413/UFC-Fight-Data)
+## [Project 5: Predicting Winners of UFC Fights](https://github.com/sont5413/UFC-Fight-Data)
 ## Predicting Winners of UFC Fights
 I built 2 classification models to predict the winner of a UFC fight based on age, height, and so on of the "red" fighter and the "blue fighter.
 * Random Forest 
@@ -60,7 +78,7 @@ The Random Forest  model had the least mean absolute error and differed from the
 
 * Clearly no feature alone has huge explanatory power. In fact, most have very little explanatory power (roughly ≤ 0.03). However, the number of UFC fights a fighter had previously ('BPrev') had the most predictor power.
 
-## [Project 5: Deer density and demographic trends from spotlight survey data at TMD installations collected between 2007 and 2021](https://github.com/sont5413/TMD-Deer-Demographics-From-Past-Surveys)
+## [Project 6: Deer density and demographic trends from spotlight survey data at TMD installations collected between 2007 and 2021](https://github.com/sont5413/TMD-Deer-Demographics-From-Past-Surveys)
 
 ![image](https://user-images.githubusercontent.com/95881308/197414710-269af222-4655-49b4-8100-c58f23e4cd53.png)
 
@@ -86,7 +104,7 @@ The Random Forest  model had the least mean absolute error and differed from the
 #### Deer demographic trends at TMD training sites: 
    https://willis-sontheimer.shinyapps.io/Deer_density_by_year_and_training_site/
 
-## [Project 5: Assessing Antler and Body Size of Mature Deer at Four Military Bases in Texas](https://github.com/sont5413/Deer-Herd-Characteristics---TMD)
+## [Project 7: Assessing Antler and Body Size of Mature Deer at Four Military Bases in Texas](https://github.com/sont5413/Deer-Herd-Characteristics---TMD)
 ### I assessed mean antler and body size of mature (>= 4.5 years) male white-tailed deer at four military bases in Texas
 
 ## A. Data
@@ -108,7 +126,7 @@ Figure 2. Mean body size with 95% confidence intervals of mature males at four m
 * You can see how small the sample sizes are just based on how wide the confidence intervals are for some sites and seasons.
 * Bowie has the largest sample sizes and therefore highest confidence in estimates for mean antler size and body size.  
 
-## [Project 6: Analyzed Factors Influencing Body and Antler Size Relationships in White-tailed Deer: Project Overview](https://github.com/sont5413/Deer-scaling-relationships)
+## [Project 8: Analyzed Factors Influencing Body and Antler Size Relationships in White-tailed Deer: Project Overview](https://github.com/sont5413/Deer-scaling-relationships)
 * Analyzed the degree to which maternal attributes (i.e., litter type and mother's age) and dietary energy influence body:antler size scaling relationships in white-tailed deer.
 * Analyzed these relationships at two levels: 1) through the entire lifespan of individuals, and 2) at 5 different age groups (i.e., 1.5, 2.5, 3.5, 4.5, and 5.5).
 * antler size and body size were log transformed in the .csv
@@ -121,7 +139,7 @@ Figure 2. Mean body size with 95% confidence intervals of mature males at four m
 #### Figure 2. Predicted regression lines depicting the relationship between body mass and antler mass for male white-tailed deer aged 1.5 years fed either a low energy diet (L) or standard energy diet (S) and born to either a multiples or singleton litter in a captive population of white-tailed deer.
 ![image](https://user-images.githubusercontent.com/95881308/150654947-df38b97f-eae9-449f-9668-426da6bee2ed.png)
 
-## [Project 7: Analyzed COVID-19 case rates for the month of January 2021 across 5 states that showed the highest increase in new cases](https://github.com/sont5413/CovidCasesJAN21)
+## [Project 9: Analyzed COVID-19 case rates for the month of January 2021 across 5 states that showed the highest increase in new cases](https://github.com/sont5413/CovidCasesJAN21)
 * I analyzed an intercepts and slopes linear mixed effect model with State as the random factor.
 * I also analyzed the 95% confidence interval of the fixed effect slope to conclude if rates vary among states. 
 * My results show that the rate of exponential growth does not vary across the states. 
