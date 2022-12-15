@@ -39,7 +39,7 @@ The environmental factors below do not signiciantly influence estimates of deer 
 
 I found this dataset through google's public dataset search.  This is deer spotlight survey data collected by the Department of the Interior in Great Smoky Mountains National Park from 1993-2003.
 
-## [Project 3: Assessing effects of precipitatio and temperature (with time lags) on deer body mass](https://github.com/sont5413/Environmental_influences_on_deer_body_mass)
+## [Project 3: Assessing effects of precipitation and temperature (with time lags) on deer body mass](https://github.com/sont5413/Environmental_influences_on_deer_body_mass)
 
 ### I analyzed the effects of annual precipitation and temperature, with timelags ranging from 0-5 years, on body size in white-tailed deer.
   * I analyzed these effects separately in females and males.
@@ -93,7 +93,7 @@ The Random Forest  model had the least mean absolute error and differed from the
 #### Figure 3. Estimated Fawn to Doe ratio at four military training sites in Texas between 2007 and 2021.  A healthy fawn to doe ratio is 0.75 and is represented by a horizontal line.
 ![image](https://user-images.githubusercontent.com/95881308/194447716-2d0587d0-5d42-489c-b8a3-d663da4d3166.png)
 
-## [Project 4: R Shiny apps that I have built](https://github.com/sont5413/R-Shiny-Apps)
+## [Project 7: R Shiny apps that I have built](https://github.com/sont5413/R-Shiny-Apps)
 #### Fish species and capture location data viz:
    https://willis-sontheimer.shinyapps.io/Fish_app/
 
@@ -104,7 +104,7 @@ The Random Forest  model had the least mean absolute error and differed from the
 #### Deer demographic trends at TMD training sites: 
    https://willis-sontheimer.shinyapps.io/Deer_density_by_year_and_training_site/
 
-## [Project 7: Assessing Antler and Body Size of Mature Deer at Four Military Bases in Texas](https://github.com/sont5413/Deer-Herd-Characteristics---TMD)
+## [Project 8: Assessing Antler and Body Size of Mature Deer at Four Military Bases in Texas](https://github.com/sont5413/Deer-Herd-Characteristics---TMD)
 ### I assessed mean antler and body size of mature (>= 4.5 years) male white-tailed deer at four military bases in Texas
 
 ## A. Data
@@ -126,7 +126,7 @@ Figure 2. Mean body size with 95% confidence intervals of mature males at four m
 * You can see how small the sample sizes are just based on how wide the confidence intervals are for some sites and seasons.
 * Bowie has the largest sample sizes and therefore highest confidence in estimates for mean antler size and body size.  
 
-## [Project 8: Analyzed Factors Influencing Body and Antler Size Relationships in White-tailed Deer: Project Overview](https://github.com/sont5413/Deer-scaling-relationships)
+## [Project 9: Analyzed Factors Influencing Body and Antler Size Relationships in White-tailed Deer: Project Overview](https://github.com/sont5413/Deer-scaling-relationships)
 * Analyzed the degree to which maternal attributes (i.e., litter type and mother's age) and dietary energy influence body:antler size scaling relationships in white-tailed deer.
 * Analyzed these relationships at two levels: 1) through the entire lifespan of individuals, and 2) at 5 different age groups (i.e., 1.5, 2.5, 3.5, 4.5, and 5.5).
 * antler size and body size were log transformed in the .csv
@@ -139,7 +139,7 @@ Figure 2. Mean body size with 95% confidence intervals of mature males at four m
 #### Figure 2. Predicted regression lines depicting the relationship between body mass and antler mass for male white-tailed deer aged 1.5 years fed either a low energy diet (L) or standard energy diet (S) and born to either a multiples or singleton litter in a captive population of white-tailed deer.
 ![image](https://user-images.githubusercontent.com/95881308/150654947-df38b97f-eae9-449f-9668-426da6bee2ed.png)
 
-## [Project 9: Analyzed COVID-19 case rates for the month of January 2021 across 5 states that showed the highest increase in new cases](https://github.com/sont5413/CovidCasesJAN21)
+## [Project 10: Analyzed COVID-19 case rates for the month of January 2021 across 5 states that showed the highest increase in new cases](https://github.com/sont5413/CovidCasesJAN21)
 * I analyzed an intercepts and slopes linear mixed effect model with State as the random factor.
 * I also analyzed the 95% confidence interval of the fixed effect slope to conclude if rates vary among states. 
 * My results show that the rate of exponential growth does not vary across the states. 
