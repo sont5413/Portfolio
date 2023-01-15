@@ -21,7 +21,7 @@
 
 Body Mass was the most important feature and far and away more predictive than any of the other features.
 
-## [Project 2: I assessed the effects of environmental factors on estimates of deer density from spotlight surveys](https://github.com/sont5413/Environmental_effects_deer_survey_estimates)
+## [Project 2: I assessed the effects of environmental factors on estimates of white-tailed deer density spotlight surveys](https://github.com/sont5413/Environmental_effects_deer_survey_estimates)
 
 #### Project Objective
 
